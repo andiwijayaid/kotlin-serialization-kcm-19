@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kotlin Serialization</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="java">Java</string>
+
+    <string name="user_id_format">User Id: %d</string>
+    <string name="id_format">Id: %d</string>
+    <string name="title_format">Title: %s</string>
+    <string name="commented_format">Is Commented: %s</string>
+    <string name="number_of_click_format">Number of Click: %s</string>
+    <string name="place_format">Place: %s</string>
+</resources>
